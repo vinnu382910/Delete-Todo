@@ -1,0 +1,26 @@
+/* Write your CSS here */
+
+.main-cont {
+  background-color: #ffc2a0;
+  height: 100vh;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.card-cont {
+  background-color: #fff;
+  background-size: cover;
+  padding: 20px;
+  border-radius: 10px;
+  width: 600px;
+}
+
+.main-heading {
+  color: #ff8542;
+  font-family: Roboto;
+  font-size: 35px;
+  text-align: center;
+}
